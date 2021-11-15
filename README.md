@@ -1,13 +1,22 @@
 # Portfólio 
 autor: Rafael Leonardo Lopes
 
-<p>Aplicação web contendo uma pagina Home, o meu curriculo, uma pagina para o portfolio de projetos e outra contando alguns hobbies.</p>
+<p>Ola seja bem vindo ao meu repositorio. Esta é uma aplicação utilizando html e css.</p>
+<p>Na pasta docs vc encontrara um pdf com o respectivo wiriframe da aplicação, seguidos da pasta src que contem outras duas pastas que são static e templates.
+Na pagina static temos os arquivos CSS e as imagens que foram utilizadas na aplicação, ja em relação a templates esta localizado as paginas html da minha aplicação.</p>
 
-<h2>Pagina:</h2>
+Para obter o prototipo navegal e um link de explicação veja abaixo.
+
+<p>Obrigado pela atenção</p>
+
+<h2>links:</h2>
 <table>
   <tr>
-    <td><p>GitHub:</p></td>
-    <td><a href="https://rafael-leonardo.github.io/portfolio-Design-Digital/src/templates/index.html">Clique aqui</a></td>
+    <td>Plataformas:</td>
+    <td> links:</td>
+  </tr>
+  <tr>
+    <td><p>Youtube:</p></td>
+    <td><a href="https://youtu.be/ZYOh5m7Cfks">Clique aqui</a></td>
   </tr>
 </table>
-
