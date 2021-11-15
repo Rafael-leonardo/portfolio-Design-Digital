@@ -16,7 +16,11 @@ Para obter o prototipo navegal e um link de explicação veja abaixo.
     <td> links:</td>
   </tr>
   <tr>
-    <td><p>Youtube:</p></td>
+    <td><p>Youtube (entrega 1):</p></td>
     <td><a href="https://youtu.be/ZYOh5m7Cfks">Clique aqui</a></td>
+  </tr>  
+  <tr>
+    <td><p>Youtube (entrega 2):</p></td>
+    <td><a href="https://www.youtube.com/watch?v=QKS9q4dGAJk">Clique aqui</a></td>
   </tr>
 </table>
