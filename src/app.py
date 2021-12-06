@@ -1,6 +1,5 @@
 from flask import Flask, render_template, request
-from flask_sqlalchemy import SQLAlchemy
-from os import path
+from livereload import Server
 
 app = Flask(__name__)
 
@@ -21,4 +20,5 @@ def hobbies():
     return render_template("hobbies.html")
 
 if __name__ == '__main__':
+    server = Server(app.wsgi_app)
     app.run()
