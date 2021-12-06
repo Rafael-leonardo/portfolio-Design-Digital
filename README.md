@@ -23,4 +23,8 @@ Para obter o prototipo navegal e um link de explicação veja abaixo.
     <td><p>Youtube (entrega 2):</p></td>
     <td><a href="https://www.youtube.com/watch?v=QKS9q4dGAJk">Clique aqui</a></td>
   </tr>
+  <tr>
+    <td><p>Heroku:</p></td>
+    <td><a href="https://rl-portfolio-inicial.herokuapp.com/">Clique aqui</a></td>
+  </tr>
 </table>
